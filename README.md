@@ -39,7 +39,8 @@ This project implements a model-view-control (MVC) specific set up, uses the obj
 
 Challenges faced when creating this application were the use of the handlebars template engine. This was my first time using one, and it took quite a bit of tinkering to find the best way to give certain partials access to the data I wanted to pass to the page. I also still struggle a bit with routing, and middleware in regards to the syntax used. This was the first full-stack web application I have built, so there was definitely a few times where I felt overwhelmed with the amount of files I was needing to comb through, however I eventually did get the feel for how all the different parts connected resulting in the completed application!
 
-
+Heroku URL:
+https://techblogprojectweek14app-4816b01e7597.herokuapp.com/
 ## Screenshots
 
 ![Screenshot1-week-14-challenge](https://github.com/rmessett15/MVC-Tech-Blog/assets/120127903/d3b4e9c7-44ae-49e7-a2b8-9cf210875a6f)
