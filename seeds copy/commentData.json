@@ -1,0 +1,38 @@
+[
+  {
+    "comment_body": "This is a very interesting topic",
+    "date_created": "April 5, 2024",
+    "user_id": 2,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "Amazing blog and so much information",
+    "date_created": "April 5, 2024",
+    "user_id": 3,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "Peace and love mannnnn, even for robots!",
+    "date_created": "April 5, 2024",
+    "user_id": 3,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "What is your opinion?",
+    "date_created": "April 5, 2024",
+    "user_id": 1,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "lol",
+    "date_created": "April 5, 2024",
+    "user_id": 2,
+    "blogPost_id": 3
+  },
+  {
+    "comment_body": "Learning new stuff everyday",
+    "date_created": "April 5, 2024",
+    "user_id": 1,
+    "blogPost_id": 3
+  }
+]
